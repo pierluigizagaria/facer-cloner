@@ -1,0 +1,26 @@
+{
+  "name": "Facer Cloner",
+  "version": "1.0.0",
+  "description": "Clone Facer watch faces into your projects.",
+  "manifest_version": 3,
+  "icons": {
+    "16": "img/icon-16.png",
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
+  },
+  "permissions": [
+    "declarativeContent",
+    "debugger"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "img/icon-16.png",
+      "48": "img/icon-48.png",
+      "128": "img/icon-128.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "js/background.js"
+  }
+}

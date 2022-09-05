@@ -1,0 +1,45 @@
+body {
+    margin: 16px;
+}
+
+#text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    margin: auto;
+}
+
+.container {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#url-input {
+    padding: 6px;
+    font-size: 16px;
+    border-color: #2BADE3;
+    border-width: 2px;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-radius: 4px;
+    margin: 12px 0px;
+}
+
+#url-input:focus {
+    outline: none;
+}
+
+#clone-button {
+    padding: 8px 16px;
+    background: #2bade3;
+    font-size: 16px;
+    border-radius: 20px;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+}
+
+#clone-button:active {
+    opacity: 0.8;
+}
