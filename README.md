@@ -1,3 +1,3 @@
 ![](./img/icon-128.png)
-# Facer Cloner
+# Facer.io cloner
 Browser extension to clone `Facer.io` watch faces.
