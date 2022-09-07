@@ -1,7 +1,7 @@
 {
   "name": "Facer.io Cloner",
   "version": "1.0.0",
-  "description": "Clone Facer watch faces into your projects.",
+  "description": "Clone Facer.io watch faces into your projects.",
   "manifest_version": 3,
   "icons": {
     "16": "img/icon-16.png",
