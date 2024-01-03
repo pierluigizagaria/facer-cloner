@@ -30,7 +30,7 @@ const clone = async ({ tabId, url }) => {
 
   const commandParams = {
     patterns: [
-      { urlPattern: 'https://api.facer.io/parse/functions/getWatchface' }
+      { urlPattern: 'https://www.facer.io/parse/functions/getWatchface' }
     ]
   };
 
